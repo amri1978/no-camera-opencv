@@ -1,0 +1,17 @@
+{
+  "buildFiles": [
+    "C:\\Dev\\RICOH-OPENCV\\app\\jni\\Android.mk",
+    "C:\\Dev\\RICOH-OPENCV\\app\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\AMINE\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Dev\\RICOH-OPENCV\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Dev\\RICOH-OPENCV\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-24 NDK_OUT\u003dC:/Dev/RICOH-OPENCV/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Dev\\RICOH-OPENCV\\app\\build\\intermediates\\ndkBuild\\release\\lib clean"
+  ],
+  "libraries": {
+    "opencvsample-release-x86": {
+      "artifactName": "opencvsample",
+      "buildCommand": "C:\\Users\\AMINE\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Dev\\RICOH-OPENCV\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Dev\\RICOH-OPENCV\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-24 NDK_OUT\u003dC:/Dev/RICOH-OPENCV/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Dev\\RICOH-OPENCV\\app\\build\\intermediates\\ndkBuild\\release\\lib C:/Dev/RICOH-OPENCV/app/build/intermediates/ndkBuild/release/obj/local/x86/libopencvsample.so",
+      "abi": "x86",
+      "output": "C:\\Dev\\RICOH-OPENCV\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libopencvsample.so"
+    }
+  }
+}
